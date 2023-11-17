@@ -2,7 +2,7 @@
 This Repository contains encryption methods that secure our data from third-party usres
 <h1 align="center">Cipher Encryption Methods Project</h1>
 
-![lock](![266299923-badbad36-6195-4a98-b1c8-b8fa624558e4](https://github.com/Puneeth-Gudipati/Cipher-Encryption-Methods-Project/assets/123624243/23630310-1dd6-47db-a9c2-2eea55680c4b)
+![266299923-badbad36-6195-4a98-b1c8-b8fa624558e4](https://github.com/Puneeth-Gudipati/Cipher-Encryption-Methods-Project/assets/123624243/23630310-1dd6-47db-a9c2-2eea55680c4b)
 
 
 <h1>Description</h1>
@@ -13,7 +13,7 @@ Cryptography is the process of hiding or coding information so that only the per
 
 <br>
 
-![Untitled](![266305414-eb297717-f813-410e-a3ef-504c2d489855](https://github.com/Puneeth-Gudipati/Cipher-Encryption-Methods-Project/assets/123624243/0021acc3-7fa6-4358-89dd-93403f25bd44)
+![266305414-eb297717-f813-410e-a3ef-504c2d489855](https://github.com/Puneeth-Gudipati/Cipher-Encryption-Methods-Project/assets/123624243/0021acc3-7fa6-4358-89dd-93403f25bd44)
 
 
 <h2>What is Encryption?</h2>
@@ -22,7 +22,7 @@ Encryption is a process of converting information or data into a secret code to 
 
 <br>
 
-![X0XF](![266307207-6121235b-fc11-4a98-9e1b-946655bc7716](https://github.com/Puneeth-Gudipati/Cipher-Encryption-Methods-Project/assets/123624243/ce3c5695-c042-49c8-abed-1069014cc445)
+![266307207-6121235b-fc11-4a98-9e1b-946655bc7716](https://github.com/Puneeth-Gudipati/Cipher-Encryption-Methods-Project/assets/123624243/ce3c5695-c042-49c8-abed-1069014cc445)
 
 
 <h2>What is Decryption?</h2>
@@ -31,7 +31,7 @@ The conversion of encrypted data into its original form is called Decryption. It
 
 <br>
 
-![SID_FB_001](![266307995-5818165e-e412-4d4e-80ee-f31002098bd4](https://github.com/Puneeth-Gudipati/Cipher-Encryption-Methods-Project/assets/123624243/309f644c-479b-4d0e-b9f1-34cc1176ca29)
+![266307995-5818165e-e412-4d4e-80ee-f31002098bd4](https://github.com/Puneeth-Gudipati/Cipher-Encryption-Methods-Project/assets/123624243/309f644c-479b-4d0e-b9f1-34cc1176ca29)
 
 
 <h2>About the Project</h2>
